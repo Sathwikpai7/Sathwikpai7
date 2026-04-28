@@ -8,16 +8,11 @@
 
 ## 🚀 Tech Stack
 
-## 🚀 Tech Stack
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,express,mongodb,postgrescss,vite,postman,vscode" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/NeonDB-00E699?style=for-the-badge" />
-</p>
+
 
 ---
 
