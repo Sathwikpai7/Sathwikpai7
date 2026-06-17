@@ -9,7 +9,7 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,express,mongodb,postgres,css,vite,postman,vscode,redis,bullmq" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,express,mongodb,postgres,css,vite,postman,vscode,redis,docker" />
 </p>
 
 
